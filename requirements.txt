@@ -1,0 +1,5 @@
+torch
+pandas
+transformers
+jupyter
+pytorch_lightning
